@@ -1,0 +1,5 @@
+G:\3LFI_PFE\Stage\Gestion_Paie_Oracle\Gestion_Paie_Oracle\SingletonConnexion.cs\obj\Debug\SingletonConnexion.cs.csprojResolveAssemblyReference.cache
+G:\3LFI_PFE\Stage\Gestion_Paie_Oracle\Gestion_Paie_Oracle\SingletonConnexion.cs\bin\Debug\SingletonConnexion.cs.dll
+G:\3LFI_PFE\Stage\Gestion_Paie_Oracle\Gestion_Paie_Oracle\SingletonConnexion.cs\bin\Debug\SingletonConnexion.cs.pdb
+G:\3LFI_PFE\Stage\Gestion_Paie_Oracle\Gestion_Paie_Oracle\SingletonConnexion.cs\obj\Debug\SingletonConnexion.cs.dll
+G:\3LFI_PFE\Stage\Gestion_Paie_Oracle\Gestion_Paie_Oracle\SingletonConnexion.cs\obj\Debug\SingletonConnexion.cs.pdb
